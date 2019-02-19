@@ -1,4 +1,4 @@
-## The Final Project 
+## Final Project Guidelines
 
 The final project is a large-scale application that should showcase your abilities as a developer and be the capstone of your portfolio. You will present the application on Demo Day.
 
@@ -42,4 +42,24 @@ Community feedback is invaluable in keeping scope-creep (a.k.a kitchen sink synd
 Peer code reviews are also extremely helpful.
 
 ## Start Small, Grow with Agility
+
+<img src="https://github.com/ccs-student-submissions/final-project/blob/master/mvp.jpg"/>
+
+see [https://pickcrew.com/how-to-build-an-online-busine... for more on this](https://pickcrew.com/how-to-build-an-online-business/balance-design-and-launching-early/)
+
+## Final Project Q&A
+
+1. Where do we have to be during final projects? In the lab? Home?  
+    1. Monday through Thursday, be at Carolina Code School's campus by 10 am for a short standup meeting. We will be holding some small lectures here and there, and the instructor staff will be helping to answer questions. If you don't show up, ask questions, and drive your project in this crucial 3-week period, you won't receive career support.  
+    2. Fridays **WE WILL STILL HAVE HUDDLE AT 9 AM!!!** followed by a short standup meeting.  
+2. How often will lectures happen, and will they be optional?  
+    1. There is no set lecture schedule during final projects. 
+    2. Students will be notified in Slack ahead of time if a lecture is planned, and will be informed whether or not the lecture is optional.  
+    3. Any planned lectures during this time will be kept to a maximum of 1.5 or 2 hours.  
+3. How often do we check in with the instructor?    
+    1. You must check in with your instructor each morning during standup.
+4. How much job-related stuff should I be doing?  
+    1. This is a case-by-case basis, but Carolina Code School staff will be sharing job-related resources to help kickstart the job search process. Best rule of thumb:
+        1. During final projects, do two 1-hr job searches each week. That means, pick two evenings (e.g. Tues, Thurs), schedule them on your calendar (to get alerts so you don't forget), and don't do anything more. The goal of the final project time should be primarily working on your final project.
+        2. During final projects, spend a little time every day (25 minutes?) working on your portfolio. Schedule this on your calendar.
 
