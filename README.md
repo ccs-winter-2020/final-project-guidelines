@@ -63,3 +63,7 @@ see [https://pickcrew.com/how-to-build-an-online-busine... for more on this](htt
         1. During final projects, do two 1-hr job searches each week. That means, pick two evenings (e.g. Tues, Thurs), schedule them on your calendar (to get alerts so you don't forget), and don't do anything more. The goal of the final project time should be primarily working on your final project.
         2. During final projects, spend a little time every day (25 minutes?) working on your portfolio. Schedule this on your calendar.
 
+## Resources
+
+Check out these [TED Talks](https://www.ted.com/playlists/226/before_public_speaking) to help you get ready to speak in front of a crowd.
+
